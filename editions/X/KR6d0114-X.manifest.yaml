@@ -1,0 +1,194 @@
+canonical_identifier: bkk:krp/KR6d0114/X/v1
+canonical_location: https://kanripo.org/bkk/KR6d0114/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 金剛三昧經注解
+  identifiers:
+    krp: KR6d0114
+    cbeta: X35n0651
+    cbeta_old_id: X35n0651
+    authorityid: CA0001753
+    json_key: X0651
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X35/X35n0651.xml
+    old_id: X35n0651
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6d0114_000-X.yaml, hash: 'sha256:ee634cf6d10769ca734ae38234b6f7763c5c0773945bbf835346ea9eaebde461'}
+  - {seq: 1, filename: KR6d0114_001-X.yaml, hash: 'sha256:7d6fe2424d6cf0da7ad30acc883336769eecd1d50579c16d445d301a8a13c659'}
+  - {seq: 2, filename: KR6d0114_002-X.yaml, hash: 'sha256:fc91e769d6a5a4b84cb1722481982c2f04fa836458516f2c3f3e7f6df905284b'}
+  - {seq: 3, filename: KR6d0114_003-X.yaml, hash: 'sha256:af2edde08fc4a4b8c09a1de40e3f3a2b677982eac5e4a80bf375540e756e5c2a'}
+  - {seq: 4, filename: KR6d0114_004-X.yaml, hash: 'sha256:56b7b432be24ecd59fcdeff6d9a1e50d4c9fbd513140fd699f4709a5a07ea137'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6d0114_000-X.markers.yaml, hash: 'sha256:6b3437a1bd1c9f30ba8c4a2118b99ddfa57550ba7b1a3e81f0cecbef5abfe4f5'}
+  - {seq: 1, role: markers, filename: assets/KR6d0114_001-X.markers.yaml, hash: 'sha256:aa749ab3ddffa43e6fb2f78e22876f287e44a590f8ec9f953800547ddf7ab7d8'}
+  - {seq: 2, role: markers, filename: assets/KR6d0114_002-X.markers.yaml, hash: 'sha256:a711f32f0eb9b0eed119b1e17f9e65edb9cd59be393054eb39b0dad421f0ab6f'}
+  - {seq: 3, role: markers, filename: assets/KR6d0114_003-X.markers.yaml, hash: 'sha256:6245964281309afbc86536ecf40eaf388f0181e987980be8311979cdbcd6c42d'}
+  - {seq: 4, role: markers, filename: assets/KR6d0114_004-X.markers.yaml, hash: 'sha256:5cd1f477daf2285ecde0e9a4ad47346a8bb421b6984610ae82a7e20895d22edc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6d0114_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 651-A 金剛三昧經註解敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6d0114_X_000-mulu-2
+    span:
+    - front
+    - 555
+    - 555
+  label: 目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0114_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10566
+  label: 金剛三昧經註卷第一
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0114_X_001-mulu-1
+    span:
+    - body
+    - 19
+    - 19
+  label: 經題
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0114_X_001-mulu-2
+    span:
+    - body
+    - 2410
+    - 2410
+  label: 序品第一
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6d0114_X_001-mulu-3
+    span:
+    - body
+    - 4411
+    - 4411
+  label: 無相法品第二
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0114_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 10836
+  label: 金剛三昧經註卷第二
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0114_X_002-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 無生行品第三
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6d0114_X_002-mulu-2
+    span:
+    - body
+    - 4390
+    - 4390
+  label: 本覺利品第四
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0114_X_003-juan-start
+    span:
+    - body
+    - 0
+    - 11968
+  label: 金剛三昧經註卷第三
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0114_X_003-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 入實際品第五
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6d0114_X_003-mulu-2
+    span:
+    - body
+    - 7670
+    - 7670
+  label: 真性空品第六
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0114_X_004-juan-start
+    span:
+    - body
+    - 0
+    - 11112
+  label: 金剛三昧經註卷第四
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0114_X_004-mulu-1
+    span:
+    - body
+    - 11
+    - 11
+  label: 如來藏品第七
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0114_X_004-mulu-2
+    span:
+    - body
+    - 3978
+    - 3978
+  label: 總持品第八
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6d0114_X_004-mulu-3
+    span:
+    - body
+    - 10876
+    - 10876
+  label: No. 651-B 金剛三昧經註解䟦
+  type: mulu
+  level: 1
+hash: sha256:0e22e26f17e4960ff5c054b026bdcabdedc30a1c3790c6b18ea9edf7f4db287b
