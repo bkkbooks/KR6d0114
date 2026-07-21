@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6d0114_000.yaml, hash: 'sha256:30e75b5b6d614924a7fec8402ccb1959cc219f378915f1e521659a4456acaf27'}
+  - {seq: 0, filename: KR6d0114_000.yaml, hash: 'sha256:1fb0b5f88d485bdc3bce0efa55662a87cb908b394dc7d1c99994d81a8b925c1f'}
   - {seq: 1, filename: KR6d0114_001.yaml, hash: 'sha256:3ed0c101daf79c15d87c456d673c52f74af5635ad48058e81099221aa93ef114'}
   - {seq: 2, filename: KR6d0114_002.yaml, hash: 'sha256:fff96396da5aa24e851bd26c503bae9f3418bf52f96f8f8b9723ce65608a75e7'}
   - {seq: 3, filename: KR6d0114_003.yaml, hash: 'sha256:e946313e86111596dd4d31d04f36d0280f82c5473664cd6ca1a7be022c6dfc30'}
   - {seq: 4, filename: KR6d0114_004.yaml, hash: 'sha256:26dfced93d63e532b3b92cab1ad6bda2bc0d7b75d20089a750c68828bb240c25'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6d0114_000.markers.yaml, hash: 'sha256:83e8dd703cd8bab303b1ed04059274f9c2df2ff2daa49b02c98417d9e16fc4f2'}
+  - {seq: 0, role: markers, filename: assets/KR6d0114_000.markers.yaml, hash: 'sha256:160ec5eae95e41c4da34aa5fc212c6e9ea320c68058616859af0218c4b9685c4'}
   - {seq: 1, role: markers, filename: assets/KR6d0114_001.markers.yaml, hash: 'sha256:ca240f0c54cdf5010fc4fb93a55f625792cd4c2dcbc73f6c81eefda46acb34b4'}
   - {seq: 2, role: markers, filename: assets/KR6d0114_002.markers.yaml, hash: 'sha256:5936a978f154557b56eefe1f1f58398e425c8f8372a5480524fb77ba56e7de7a'}
   - {seq: 3, role: markers, filename: assets/KR6d0114_003.markers.yaml, hash: 'sha256:012f251aa266a296d5b6eabb9d8fc0a5e3ff0e5c796a547058f187870a1b05af'}
@@ -37,7 +37,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0114_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 651-A 金剛三昧經註解敘
@@ -47,7 +47,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6d0114_X_000-mulu-2
     span:
-    - front
+    - body
     - 555
     - 555
   label: 目次
@@ -193,7 +193,7 @@ table_of_contents:
   label: No. 651-B 金剛三昧經註解䟦
   type: mulu
   level: 1
-hash: sha256:669d5f61d2184f075a903a25166d5e41f3802069ab396a27b2e68712026f9f51
+hash: sha256:d014b17ccd8e53e6379111438f7fbe39f2a6eaa40cebfb7c6f1ac6439329d40a
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
